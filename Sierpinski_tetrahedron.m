@@ -2,7 +2,7 @@ function [V, T] = Sierpinski_tetrahedron(nb_it, option_display)
 %% Sierpinski_tetrahedron : function compute, display, and save
 % a Sierpinski tetrahedron at any iteration number / depth level.
 %
-% Author & support : nicolas.douillet (at) free.fr, 2017-2020.
+% Author : nicolas.douillet9 (at) gmail.com, 2017-2024.
 %
 %
 % Syntax
@@ -192,7 +192,6 @@ T = [T;
      T + 3*repmat(size(V123,1),[size(T,1) size(T,2)])];
 
 end % tetrahedron_iterate
-
 
 
 %% remove_duplicated_vertices subfunction

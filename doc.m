@@ -3,7 +3,7 @@
 % Function to compute, display, and save a Sierpinski
 % tetrahedron at any iteration number / depth level.
 %
-% Author & support : nicolas.douillet (at) free.fr, 2017-2020.
+% Author : nicolas.douillet9 (at) gmail.com, 2017-2024.
 %
 %% Syntax
 %
